@@ -139,7 +139,7 @@ func TestDecoder(t *testing.T) {
 				t.Fatal(err)
 			}
 
-			err = yaml.Unmarshal([]byte(yamlFile), &testData)
+			err = yaml.Unmarshal(yamlFile, &testData)
 			if err != nil {
 				t.Fatal(err)
 			}
@@ -151,7 +151,7 @@ func TestDecoder(t *testing.T) {
 			}
 			defer f.Close()
 
-			streams, err := decode(conf, f, &testData.Provider)
+			streams, err := decode(conf, f, &testData.Provider, nil)
 			if testData.ExpectedError != "__no_error__" && (err == nil || err.Error() != testData.ExpectedError) {
 				t.Errorf("Test %s failed. Expected err %s, but got %s", path, testData.ExpectedError, err)
 				return nil
