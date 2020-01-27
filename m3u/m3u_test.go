@@ -157,18 +157,18 @@ func TestDecoder(t *testing.T) {
 				return nil
 			}
 
-			if !reflect.DeepEqual(streams, testData.Streams) {
-				expectedStreams, err := json.Marshal(testData.Streams)
-				if err != nil {
-					panic(err)
-				}
-				actualStreams, err := json.Marshal(streams)
-				if err != nil {
-					panic(err)
-				}
+			expectedStreams, err := json.Marshal(testData.Streams)
+			if err != nil {
+				panic(err)
+			}
+			actualStreams, err := json.Marshal(streams)
+			if err != nil {
+				panic(err)
+			}
 
+			if string(expectedStreams) != string(actualStreams) {
 				t.Logf("Test %s failed.", path)
-				t.Logf("  Expected streans: %s", expectedStreams)
+				t.Logf("  Expected streams: %s", expectedStreams)
 				t.Logf("  Got:              %s", actualStreams)
 				t.Fail()
 			}
