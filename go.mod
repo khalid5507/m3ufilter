@@ -1,5 +1,7 @@
 module github.com/hoshsadiq/m3ufilter
 
+go 1.14
+
 require (
 	github.com/PuerkitoBio/rehttp v1.0.0
 	github.com/aybabtme/iocontrol v0.0.0-20150809002002-ad15bcfc95a0 // indirect
