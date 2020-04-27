@@ -1,0 +1,443 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="GULISTAN NEWS2: GULISTAN NEWS2 " tvg-logo="" group-title="INDIA",IN: GULISTAN NEWS2
+https://m-c18-j2apps.s.llnwi.net/hls/1838.GulistanNews.in_480p/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="NEWS99 18 URDU: NEWS99 18 URDU" tvg-logo="" group-title="INDIA",IN: NEWS99 18 URDU
+https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="NDTV 24X7: NDTV 24X7 " tvg-logo="" group-title="INDIA",IN: NDTV 24X7
+http://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_480p@5.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="NDTV HINDI:NDTV HINDI " tvg-logo="" group-title="INDIA",IN: NDTV HINDI
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@3.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SONY HD: SONY HD " tvg-logo="" group-title="INDIA",IN: SONY HD
+https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1585402200_3a0b8dd1c452da1de3feb9c5cb32e866
+%2f*~data=hdntl~hmac=46b3931ab4f9a22a7da109c4e7fff91d60cad70ea9a596e1d4e85dfd54198995/master_412.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ZEE TV: ZEE TV " tvg-logo="" group-title="INDIA",IN: ZEE TV
+http://super1.ideaiptv.com:8090/Unplugged/66122/19329
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="AND TV: AND TV " tvg-logo="" group-title="INDIA",IN: AND TV
+http://45.120.188.76:8080/0.ts
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="COLORS HD: COLORS HD " tvg-logo="" group-title="INDIA",IN: COLORS HD
+http://45.120.188.219:8080/0.ts
+
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="STAR PLUS HD: STAR PLUS HD " tvg-logo="" group-title="INDIA",IN: STAR PLUS HD
+https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="STAR PLUS SD : STAR PLUS SD  " tvg-logo="" group-title="INDIA",IN: STAR PLUS SD 
+https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="COLORS HD: COLORS HD " tvg-logo="" group-title="INDIA",IN: COLORS HD
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="AAJ TAK: AAJ TAK " tvg-logo="" group-title="INDIA",IN: AAJ TAK
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="INDIA TV:INDIA TV " tvg-logo="" group-title="INDIA",IN: INDIA TV
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@3.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="NDTV PROFIT: NDTV PROFIT " tvg-logo="" group-title="INDIA",IN: NDTV PROFIT
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/masterb_480p@2.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ABP NEWS: ABP NEWS " tvg-logo="" group-title="INDIA",IN: ABP NEWS
+http://abp-i.akamaihd.net/hls/live/765529-b/abphindi/masterhls_364.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="FOOD FOOD: FOOD FOOD " tvg-logo="" group-title="INDIA",IN: FOOD FOOD
+https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b224000.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="HUM TV HD: HUM TV HD" tvg-logo="" group-title="PAKISTAN",PK: HUM TV HD
+http://fast.iptvhdstream.xyz:8090/Unplugged/66122/24384
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="HUM TV2 HD: HUM TV2 HD" tvg-logo="" group-title="PAKISTAN",PK: HUM TV2 HD
+http://95.211.211.168/live/humtv0066/playlist.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="HUM SITARAY: HUM SITARAY" tvg-logo="" group-title="PAKISTAN",PK: HUM SITARAY
+https://stream.simpaisa.com/pitvlive2/sitaraynew3/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="HUM MASALA: HUM MASALA" tvg-logo="" group-title="PAKISTAN",PK: HUM MASALA
+https://stream.simpaisa.com/pitvlive2/masalanew3/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="HUM NEWS: HUM NEWS" tvg-logo="" group-title="PAKISTAN",PK: HUM NEWS
+http://95.211.211.168/live/humnews0189/playlist.m3u8?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="HUM TV: HUM TV" tvg-logo="" group-title="PAKISTAN",PK: HUM TV
+http://95.211.211.168/live/humtv0066/playlist.m3u8?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="GEO TV: GEO TV" tvg-logo="" group-title="PAKISTAN",PK: GEO TV
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp3/chunks.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="GEO KAHANI: GEO KAHANI" tvg-logo="" group-title="PAKISTAN",PK: GEO KAHANI
+http://78.110.169.226:8000/play/a044?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="GEO KAHANI2: GEO KAHANI2" tvg-logo="" group-title="PAKISTAN",PK: GEO KAHANI2
+http://stream-7b694ce7e.nmbs.top/m3u/Pakistan/b7fbbce234.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="BOL ENTERTAINMENT: BOL ENTERTAINMENT" tvg-logo="" group-title="PAKISTAN",PK: BOL ENTERTAINMENT
+http://live.firetv.me:83/JFTJaque/51401713/382319
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="GEO NEWS: GEO NEWS" tvg-logo="" group-title="PAKISTAN",PK: GEO NEWS
+http://super1.ideaiptv.com:8090/Unplugged/66122/19314
+
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ARY DIGITAL: ARY DIGITAL" tvg-logo="" group-title="PAKISTAN",PK: ARY DIGITAL
+http://125.209.99.45:43568/BRN/AryDigital.stream/chunklist_w1032502952.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ARY ZINDAGI: ARY ZINDAGI" tvg-logo="" group-title="PAKISTAN",PK: ARY ZINDAGI
+https://stream.arylive.com/ZindagiLive/tracks-v3a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ARY FAMILY: ARY FAMILY" tvg-logo="" group-title="PAKISTAN",PK: ARY FAMILY
+http://95.211.211.168/live/aryfamily0071/playlist.m3u8?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ARY NEWS: ARY NEWS" tvg-logo="" group-title="PAKISTAN",PK: ARY NEWS
+http://125.209.99.45:43568/BRN/AryNews.stream/chunklist_w1032502952.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ARY QTV: ARY QTV" tvg-logo="" group-title="PAKISTAN",PK: ARY QTV
+https://stream.arylive.com/QtvLive/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="BOL NEWS: BOL NEWS" tvg-logo="" group-title="PAKISTAN",PK: BOL NEWS
+http://super1.ideaiptv.com:8090/Unplugged/66122/24391
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="TEHZEEB: TEHZEEB" tvg-logo="" group-title="PAKISTAN",PK: TEHZEEB
+http://cdn.poovee.net:8081/tv/tehzeeb/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIwIDk6NTA6MjMgQU0maGFzaF92YWx1ZT1JUHBPZkREVGZIRk92WU9Yb05KcUJBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE=
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="MTA: MTA" tvg-logo="" group-title="PAKISTAN",PK: MTA
+https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/index_3000_av-p.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="PTV HOME: PTV HOME" tvg-logo="" group-title="PAKISTAN",PK: PTV HOME
+https://stream.simpaisa.com/pitvlive2/ptvhome3/playlist.m3u8?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="PTV NEWS: PTV NEWS" tvg-logo="" group-title="PAKISTAN",PK: PTV NEWS
+https://stream.simpaisa.com/pitvlive2/ptvnews3/playlist.m3u8?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="PTV WORLD: PTV PTV WORLD" tvg-logo="" group-title="PAKISTAN",PK: PTV WORLD
+https://stream.simpaisa.com/pitvlive2/ptvworld3/playlist.m3u8?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SACH NEWS: SACH NEWS" tvg-logo="" group-title="PAKISTAN",PK: SACH NEWS
+https://stream.simpaisa.com/pitvlive2/sachtv3/playlist.m3u8?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="92 NEWS: 92 NEWS" tvg-logo="" group-title="PAKISTAN",PK: 92 NEWS
+https://stream.simpaisa.com/pitvlive2/news92/playlist.m3u8?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="AAJ ENTERTAINMENT: AAJ ENTERTAINMENT" tvg-logo="" group-title="PAKISTAN",PK: AAJ ENTERTAINMENT
+https://stream.simpaisa.com/pitvlive2/aajentnew/playlist.m3u8?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="TV ONE: TV ONE" tvg-logo="" group-title="PAKISTAN",PK: TV ONE
+https://stream.simpaisa.com/pitvlive2/tvone3/playlist.m3u8?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="DUNYA NEWS: DUNYA NEWS" tvg-logo="" group-title="PAKISTAN",PK: DUNYA NEWS
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="WASEEB: WASEEB" tvg-logo="" group-title="PAKISTAN",PK: WASEEB
+http://stream.tapmad.com:1935/pitvlive2/waseeb3/chunklist_w839670017.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="PUBLIC NEWS: PUBLIC NEWS" tvg-logo="" group-title="PAKISTAN",PK: PUBLIC NEWS
+https://hls5.zedflix.pk/hls/publicnewsweb_144p.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="A PLUS: A PLUS" tvg-logo="" group-title="PAKISTAN",PK: A PLUS
+http://stream.tapmad.com:1935/pitvlive2/aplus3_240p/chunklist_w1892021808.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="PAK US: PAK US" tvg-logo="" group-title="PAKISTAN",PK: PAK US
+https://livestream.5centscdn.com/pakustv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ABC NEWS : ABC NEWS " tvg-logo="" group-title="WORLD NEWS",WR: ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="BBC WORLD : BBC WORLD " tvg-logo="" group-title="WORLD NEWS",WR: BBC WORLD
+https://stream.simpaisa.com/pitvlive2/bbcnews3/playlist.m3u8?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="CNN : CNN " tvg-logo="" group-title="WORLD NEWS",WR: CNN
+http://84.22.33.254/unicast.cnn/video.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ALJEZEERA-LIV : ALJEZEERA-LIV " tvg-logo="" group-title="WORLD NEWS",WR: ALJEZEERA-LIV
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2003104/Aljazeera/master_140.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="PRESS TV: PRESS TV" tvg-logo="" group-title="WORLD NEWS",WR: PRESS TV
+https://live2.presstv.com/liveprs/smil:liveprs.smil/chunklist_w656583865_b344100_slen.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="FOX WORLD : FOX WORLD " tvg-logo="" group-title="WORLD NEWS",WR: FOX WORLD
+https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="TRT WORLD : TRT WORLD " tvg-logo="" group-title="WORLD NEWS",WR: TRT WORLD
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="BBC NEWS : BBC NEWS " tvg-logo="" group-title="WORLD NEWS",WR: BBC NEWS
+http://51.52.156.22:8888/http/004
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ALJEZEERA : ALJEZEERA " tvg-logo="" group-title="WORLD NEWS",WR: ALJEZEERA
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="EURO NEWS: EURO NEWS" tvg-logo="" group-title="WORLD NEWS",WR: EURO NEWS
+https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in_480p/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE24: FRANCE24" tvg-logo="" group-title="WORLD NEWS",WR: FRANCE
+https://m-c08-j2apps.s.llnwi.net/hls/7007.France24.in_480p/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="DW NEWS: DW NEWS" tvg-logo="" group-title="WORLD NEWS",WR: DW NEWS
+https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in_480p/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SKY NEWS : SKY NEWS " tvg-logo="" group-title="WORLD NEWS",WR: SKY NEWS 
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SKY NEWS HD: SKY NEWS HD" tvg-logo="" group-title="WORLD NEWS",WR: SKY NEWS HD
+https://skynewsau-live.akamaized.net/hls/live/2006509/skynewsau-eng1/master1920x1080.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SKY NEWS SD: SKY NEWS SD" tvg-logo="" group-title="WORLD NEWS",WR: SKY NEWS SD
+https://skynewsau-live.akamaized.net/hls/live/2006509/skynewsau-eng1/master640x360.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY : DISCOVERY  " tvg-logo="" group-title="NATURE",NR:DISCOVERY 
+https://stream.simpaisa.com/pitvlive2/discovery_360p/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO HD  : NAT GEO HD  " tvg-logo="" group-title="NATURE",NR: NAT GEO HD 
+http://45.120.188.70:8080/0.ts
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET11 : ANIMAL PLANET11 " tvg-logo="" group-title="NATURE",NR: ANIMAL PLANET11
+https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="HISTORY : HISTORY " tvg-logo="" group-title="NATURE",NR: HISTORY
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY ENGLISH : DISCOVERY ENGLISH " tvg-logo="" group-title="NATURE",NR:DISCOVERY ENGLISH
+http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO HD HINDI : NAT GEO HD HINDI " tvg-logo="" group-title="NATURE",NR: NAT GEO HD HINDI
+http://streamidvo.multitvsolution.in/NatGeoHdHindi-a/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO SD HINDI : NAT GEO SD HINDI " tvg-logo="" group-title="NATURE",NR: NAT GEO SD HINDI
+http://streamidvo.multitvsolution.in/NatGeoHindi-a/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEOWILD HD HINDI : NAT GEOWILD HD HINDI " tvg-logo="" group-title="NATURE",NR: NAT GEOWILD HD HINDI
+http://streamidvo.multitvsolution.in/NatGeoWildHdHindi-a/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEOWILD SD HINDI : NAT GEOWILD SD HINDI " tvg-logo="" group-title="NATURE",NR: NAT GEOWILD SD HINDI
+http://streamidvo.multitvsolution.in/NatGeoWildHindi-a/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET SD HINDI : ANIMAL PLANET SD HINDI " tvg-logo="" group-title="NATURE",NR:ANIMAL PLANET SD HINDI
+http://streamidvo.multitvsolution.in/AnimalPlanetHindi-a/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET HD HINDI : ANIMAL PLANET HD HINDI " tvg-logo="" group-title="NATURE",NR:ANIMAL PLANET HD HINDI
+http://streamidvo.multitvsolution.in/AnimalPlanetHdHindi-a/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY SD HINDI : DISCOVERY SD HINDI " tvg-logo="" group-title="NATURE",NR:DISCOVERY SD HINDI
+http://streamidvo.multitvsolution.in/DiscoveryHindi-a/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY HD HINDI : DISCOVERY HD HINDI " tvg-logo="" group-title="NATURE",NR:DISCOVERY HD HINDI
+http://streamidvo.multitvsolution.in/DiscoveryHdHindi-a/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY SCIENCE SD HINDI : DISCOVERY SCIENCE SD HINDI " tvg-logo="" group-title="NATURE",NR:DISCOVERY SCIENCE SD HINDI
+http://streamidvo.multitvsolution.in/DiscoverScienceHindi-a/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY SCIENCE HD HINDI : DISCOVERY SCIENCE HD HINDI " tvg-logo="" group-title="NATURE",NR:DISCOVERY SCIENCE HD HINDI
+http://streamidvo.multitvsolution.in/DiscoverScienceHdHindi-a/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY22 SD HINDI : DISCOVERY22 SD HINDI " tvg-logo="" group-title="NATURE",NR:DISCOVERY22 SD HINDI
+http://streamidvo.multitvsolution.in/DiscoverHindi-a/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY33 HD HINDI : DISCOVERY33 HD HINDI " tvg-logo="" group-title="NATURE",NR:DISCOVERY33 HD HINDI
+http://streamidvo.multitvsolution.in/DiscoverHdHindi-a/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SONY BBC EARTH : SONY BBC EARTH " tvg-logo="" group-title="NATURE",NR: SONY BBC EARTH
+https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1586683507~acl=%2f*~data=hdntl~hmac=5e9f82ef331ced722edf82e3874aaaa752fd3bc095b7e1f07051a15d665fd021/master_2000.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET HINDI : ANIMAL PLANET HINDI " tvg-logo="" group-title="NATURE",NR: ANIMAL PLANET HINDI
+http://streamidvo.multitvsolution.in/AnimalPlanetHindi-a/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET HINDI2 : ANIMAL PLANET HINDI2 " tvg-logo="" group-title="NATURE",NR: ANIMAL PLANET HINDI2
+https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY HINDI1 : DISCOVERY HINDI1 " tvg-logo="" group-title="NATURE",NR: DISCOVERY HINDI1
+http://streamidvo.multitvsolution.in/DiscoveryHindi-a/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD : NAT GEO WILD " tvg-logo="" group-title="NATURE",NR: NAT GEO WILD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY SCIENCE HINDI1 : DISCOVERY SCIENCE HINDI1 " tvg-logo="" group-title="NATURE",NR: DISCOVERY SCIENCE HINDI1
+http://streamidvo.multitvsolution.in/DiscoverScienceHindi-a/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY ENGLISH : DISCOVERY ENGLISH " tvg-logo="" group-title="NATURE",NR: DISCOVERY ENGLISH
+http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY SCIENCE ENGLISH : DISCOVERY SCIENCE ENGLISH " tvg-logo="" group-title="NATURE",NR: DISCOVERY SCIENCE ENGLISH
+http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY 360 : DISCOVERY 360 " tvg-logo="" group-title="NATURE",NR: DISCOVERY 360
+https://stream.simpaisa.com/pitvlive2/discovery_360p/playlist.m3u8?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO PEOPLE : NAT GEO PEOPLE " tvg-logo="" group-title="NATURE",NR: NAT GEO PEOPLE
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD : NAT GEO WILD " tvg-logo="" group-title="NATURE",NR: NAT GEO WILD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="HISTORY : HISTORY " tvg-logo="" group-title="NATURE",NR: HISTORY
+http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="TLC : TLC " tvg-logo="" group-title="NATURE",NR: TLC
+https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="POGO: POGO" tvg-logo="" group-title="KIDS",KD: POGO
+http://45.120.188.207:8080/0.ts
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON: CARTOON" tvg-logo="" group-title="KIDS",KD: CARTOON
+https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SONY YAY: SONY YAY" tvg-logo="" group-title="KIDS",KD: SONY YAY
+https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/hdntl=exp=1587214420~acl=%2f*~data=hdntl~hmac=cddf8f54ed92ff716cd5fc46b51c4e827eec917bb33fc066c88ff09b47b7c278/master_224.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SONY YAY-LIV: SONY YAY-LIV" tvg-logo="" group-title="KIDS",KD: SONY YAY-LIV
+https://sony247channels.akamaized.net/linear/hls/pb/event/40H5HfwWTZadFGYkBTqagg/stream/ffc5d49f-460c-4b57-831c-275350aaed96:SIN/variant/bf2e7fed0156de5f9c752a786ec34760/bandwidth/hdntl=exp=1586425832~acl=%2f*~id=51ab0c08-0145-429e-96fa-ce2ea178f91b~data=hdntl~hmac=3409d29304deeff5c87e16bf5021310f7fd8e0d6b7c287c6dc48a9425594f443/208208.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SONY2 YAY: SONY2 YAY" tvg-logo="" group-title="KIDS",KD: SONY2 YAY
+https://sony247mxdai.akamaized.net/linear/hls/pb/event/l6F6b0ymTie7-HCLhXoOYg/stream/0a9a3a72-de39-4013-bacd-4fb1e5c13dba:SIN/variant/b5f59e69986c539a23404d7f11fd0356/bandwidth/hdntl=exp=1586675269~acl=%2f*~id=dbe51675-9b6e-4319-8b59-08714c472c49~data=hdntl~hmac=8f0219f8008fd3aa2e738ce61bc28e5f69c15f19d5e443e431bf4314ece69f94/4571600.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY KIDS: DISCOVERY KIDS" tvg-logo="" group-title="KIDS",KD: DISCOVERY KIDS
+http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SONY YAY: SONY YAY" tvg-logo="" group-title="KIDS",KD: SONY YAY
+https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/hdntl=exp=1587214420~acl=%2f*~data=hdntl~hmac=cddf8f54ed92ff716cd5fc46b51c4e827eec917bb33fc066c88ff09b47b7c278/master_224.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAX-LIV: ANIMAX-LIV" tvg-logo="" group-title="KIDS",KD: ANIMAX-LIV
+https://sony247channels.akamaized.net/hls/live/2002598/AnimaxHD/hdntl=exp=1586426023~acl=%2f*~data=hdntl~hmac=ee3a8a934b7e0dde1c907bcc3916a1e2a851945bd4baf91fe703861bcde0fd51/master_108.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SONY YAY2: SONY YAY2" tvg-logo="" group-title="KIDS",KD: SONY YAY2
+https://streamer-1.toffeelive.com/live/sony_yay_240/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="PAK CARTOON: PAK CARTOON" tvg-logo="" group-title="KIDS",KD: PAK CARTOON
+https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="KID FAMILY: KID FAMILY" tvg-logo="" group-title="KIDS",KD: KID FAMILY
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+8
+
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="EBS KIDS: EBS KIDS" tvg-logo="" group-title="KIDS",KD: EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="BABY TV: BABY TV" tvg-logo="" group-title="KIDS",KD: BABY TV
+https://stream.simpaisa.com/pitvlive2/baby_360p/playlist.m3u8?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="KID ZONE: KID ZONE" tvg-logo="" group-title="KIDS",KD: KID ZONE
+https://simultv.s.llnwi.net/o033/simkidcentral/ngrp:simkidcentral_simul/540p-playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SONY TEN1-LIV: SONY TEN1-LIV " tvg-logo="" group-title="SPORTS",SP: SONY TEN1-LIV
+https://sony247channels.akamaized.net/linear/hls/pb/event/yeYP86THQ4yl7US8Zx5eug/stream/a8c62192-c80b-4d73-b946-fbf0dd07c667:SIN/variant/3008d886c92df77e69f9ba9614eb8945/bandwidth/hdntl=exp=1586426855~acl=%2f*~data=hdntl~hmac=41cf40d5ab1de2d77c6abb9be0d5f1e3bb65f462b0d87ed2233d33ade9f2e2fa/208208.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SONY TEN2-LIV: SONY TEN2-LIV " tvg-logo="" group-title="SPORTS",SP: SONY TEN2-LIV
+https://sony247channels.akamaized.net/linear/hls/pb/event/Syu8F41-R1y_JmQ7x0oNxQ/stream/93fd788d-9633-4ea1-91f8-c1673986de83:SIN/variant/a088fff5549007a33e15f5cb71014152/bandwidth/hdntl=exp=1586427001~acl=%2f*~data=hdntl~hmac=379d10c02e993bb20e836bae58e5981f739e2a85f6b26350bd02abad01fff78f/208208.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SONY SIX-LIV: SONY SIX-LIV " tvg-logo="" group-title="SPORTS",SP: SONY SIX-LIV
+https://sony247channels.akamaized.net/linear/hls/pb/event/DD7fA-HgSUaLyZp9AjRYxQ/stream/d65c568d-ceec-48c9-8887-6a71489baab6:SIN/variant/7e34aca1806e43fc2d3de36ae0756bf1/bandwidth/hdntl=exp=1586427203~acl=%2f*~id=936565d9-f91b-41b1-91bb-5f2c8f2f1ce8~data=hdntl~hmac=8b81181865bf910abf5f15a1df0c6030009c03d595226bd904934e46c8fbc35e/356224.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="PTV SPORTS HD: PTV SPORTS HD" tvg-logo="" group-title="SPORTS",PK: PTV SPORTS HD
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_480p/chunks.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="STAR SPORTS HD: STAR SPORTS HD" tvg-logo="" group-title="SPORTS",PK: STAR SPORTS HD
+http://195.181.169.120/StarSports_Hd4/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="GEO SUPER: GEO SUPER HD" tvg-logo="" group-title="SPORTS",SP: GEO SUPER HD
+http://190.2.148.9:6390/104GEOSUPER/video.m3u8?token=ECl-h2gbj0
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="FLOW SPORTS: FLOW SPORTS" tvg-logo="" group-title="SPORTS",SP: FLOW SPORTS
+http://161.0.157.9/PLTV/88888888/224/3221226899/3.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SONY SIX: SONY SIX " tvg-logo="" group-title="SPORTS",SP: SONY SIX
+https://streamer-1.toffeelive.com/live/sony_six_240/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="STAR SPORTS 1 HD: STAR SPORTS 1 HD " tvg-logo="" group-title="SPORTS",SP: STAR SPORTS 1 HD
+http://desiclub.ca:8880/IndiavsNewZealandHDEnglish_1258/index.m3u8?token=fff
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SONY TEN2: SONY TEN2" tvg-logo="" group-title="SPORTS",SP: SONY TEN2
+https://streamer-1.toffeelive.com/live/ten_2_240/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SONY SIX: SONY SIX" tvg-logo="" group-title="SPORTS",SP: SONY SIX
+https://streamer-1.toffeelive.com/live/sony_six_240/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SONY TEN3: SONY TEN3" tvg-logo="" group-title="SPORTS",SP: SONY TEN3
+http://163.172.85.133:8080/TenS/3/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="9XM: 9XM" tvg-logo="" group-title="MUSIC",MX: 9XM
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_720p/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ZOOM: ZOOM" tvg-logo="" group-title="MUSIC",MX: ZOOM
+https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in_480p/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="MASTTI: MASTTI" tvg-logo="" group-title="MUSIC",MX: MASTTI
+https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="MUSIC INDIA: MUSIC INDIA" tvg-logo="" group-title="MUSIC",MX:MUSIC INDIA
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_480p/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="9XJALWA: 9XJALWA" tvg-logo="" group-title="MUSIC",MX:9XJALWA
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="PITARA: PITARA" tvg-logo="" group-title="MUSIC",MX:PITARA
+http://pitaaralive.planetcast.in/pitaaraTV/pitaaraTV.m3u8?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="STAR GOLD HD: STAR GOLD HD " tvg-logo="" group-title="INDIA",MV: STAR GOLD HD
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ZEE CINEMA: ZEE CINEMA " tvg-logo="" group-title="INDIA",MV: ZEE CINEMA
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="STAR WORLD: STAR WORLD " tvg-logo="" group-title="INDIA",MV: STAR WORLD
+https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SONY MAX-LIV: SONY MAX-LIV " tvg-logo="" group-title="MOVIES",MV: SONY MAX-LIV
+https://sony247channels.akamaized.net/linear/hls/pb/event/Qyqz40bSQriqSuAC7R8_Fw/stream/041ff723-08e6-4c74-a4e1-9a917bce9c2b:SIN/variant/1f476383f8f3af60dab229323318521f/bandwidth/hdntl=exp=1586427482~acl=%2f*~id=5237dfda-b7ae-4f3a-a80f-d48008a90385~data=hdntl~hmac=1c33e0882249e2cdfd32c1dd2976c95d1113efea92c5bb3dd1f4e2ceebc88028/356224.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="B4U MOVIES: B4U MOVIES " tvg-logo="" group-title="MOVIES",MV: B4U MOVIES
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="SONY MAX: SONY MAX " tvg-logo="" group-title="MOVIES",MV: SONY MAX
+https://streamer-1.toffeelive.com/live/sony_max_240/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ZEE CINEMA: ZEE CINEMA " tvg-logo="" group-title="MOVIES",MV: ZEE CINEMA
+https://streamer-1.toffeelive.com/live/zee_cinema_720/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ZEE ACTION: ZEE ACTION " tvg-logo="" group-title="MOVIES",MV: ZEE ACTION
+http://livecdnh1.tvanywhere.ae/hls/zee_action/04.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="STAR MOVIES: STAR MOVIES " tvg-logo="" group-title="MOVIES",MV: STAR MOVIES
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="BOLLYWOOD HD: BOLLYWOOD HD " tvg-logo="" group-title="MOVIES",MV: BOLLYWOOD HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH CLASSIC: ENGLISH CLASSIC " tvg-logo="" group-title="MOVIES",MV: ENGLISH CLASSIC
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="MOVIES NOW: MOVIES NOW " tvg-logo="" group-title="MOVIES",MV: MOVIES NOW
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="STAR WORLD: STAR WORLD " tvg-logo="" group-title="MOVIES",MV: STAR WORLD
+http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
